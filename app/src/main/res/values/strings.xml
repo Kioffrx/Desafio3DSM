@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AprendeApp</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Iniciar sesión</string>
+    <string name="login_exitoso">Sesión iniciada correctamente</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_ir_registro">¿No tienes cuenta? Regístrate</string>
+
+    <!-- Registro -->
+    <string name="registro_titulo">Crear cuenta</string>
+    <string name="registro_exitoso">Cuenta creada. Ya puedes iniciar sesión</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_confirmacion">Confirmar contraseña</string>
+    <string name="label_rol">Rol</string>
+    <string name="rol_estudiante">Estudiante</string>
+    <string name="rol_docente">Docente</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="btn_volver">Volver al login</string>
+    <string name="password_ayuda">Mínimo 12 caracteres, con mayúscula, minúscula, número y un especial (! @ # $ % ^ &amp; *)</string>
+
+    <!-- Reglas de contraseña -->
+    <string name="password_regla_largo">La contraseña debe tener al menos 12 caracteres</string>
+    <string name="password_regla_mayuscula">La contraseña debe incluir al menos una letra mayúscula</string>
+    <string name="password_regla_minuscula">La contraseña debe incluir al menos una letra minúscula</string>
+    <string name="password_regla_numero">La contraseña debe incluir al menos un número</string>
+    <string name="password_regla_especial">La contraseña debe incluir al menos un carácter especial (! @ # $ % ^ &amp; *)</string>
+
+    <!-- Errores -->
+    <string name="error_nombre_vacio">Ingresa tu nombre</string>
+    <string name="error_email_invalido">El correo electrónico no es válido</string>
+    <string name="error_password_no_coincide">Las contraseñas no coinciden</string>
+    <string name="error_email_registrado">Ese correo ya está registrado</string>
+    <string name="error_campos_vacios">Completa el correo y la contraseña</string>
+    <string name="error_credenciales">Correo o contraseña incorrectos</string>
+    <string name="error_red">No se pudo conectar con el servidor. Revisa tu conexión</string>
+
+    <!-- Home -->
+    <string name="home_usuario_rol">%1$s (%2$s)</string>
+    <string name="btn_administrar">Administrar recursos</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+    <string name="logout_titulo">Cerrar sesión</string>
+    <string name="logout_mensaje">¿Seguro que deseas salir de AprendeApp?</string>
+    <string name="logout_confirmar">Salir</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
