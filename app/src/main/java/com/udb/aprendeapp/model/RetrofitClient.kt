@@ -7,8 +7,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
 
-    // Reemplaza con la URL de tu proyecto en MockAPI.io (debe terminar en "/")
-    private const val BASE_URL = "https://TU_ID.mockapi.io/api/v1/"
+    // Reemplaza con la URL de tu proyecto en MockAPI.io (debe terminar en "/
+    private const val BASE_URL = "https://6ae3cef0933120ae20f932e7.mockapi.io/api/v1/"
 
     private val cliente = OkHttpClient.Builder()
         .addInterceptor(HttpLoggingInterceptor().apply { level = HttpLoggingInterceptor.Level.BASIC })
