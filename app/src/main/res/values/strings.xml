@@ -46,4 +46,71 @@
     <string name="logout_mensaje">¿Seguro que deseas salir de AprendeApp?</string>
     <string name="logout_confirmar">Salir</string>
     <string name="cancelar">Cancelar</string>
+
+    <!-- Pantalla principal -->
+    <string name="hint_buscar">Buscar por ID, título o tipo</string>
+    <string name="menu_favoritos">Solo favoritos</string>
+    <string name="filtro_todos">Todos</string>
+    <string name="label_orden">Ordenar por</string>
+    <string name="no_hay_resultados">No se encontraron recursos</string>
+    <string name="no_hay_favoritos">Aún no tienes recursos favoritos</string>
+    <string name="mostrando_favoritos">Mostrando solo tus favoritos</string>
+    <string name="mostrando_todos">Mostrando todos los recursos</string>
+    <string-array name="opciones_orden">
+        <item>Título (A-Z)</item>
+        <item>Título (Z-A)</item>
+        <item>Mejor calificados</item>
+        <item>Tipo</item>
+    </string-array>
+    <string-array name="tipos_recurso">
+        <item>libro</item>
+        <item>video</item>
+        <item>articulo</item>
+        <item>tutorial</item>
+    </string-array>
+
+    <!-- Tarjeta de recurso -->
+    <string name="recurso_id">ID: %1$s</string>
+    <string name="sin_calificaciones">Sin calificaciones</string>
+    <string name="promedio_formato">★ %1$.1f (%2$d votos)</string>
+    <string name="btn_calificar">Calificar</string>
+    <string name="btn_recalificar">Tu voto: %1$d ★</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="descripcion_favorito">Marcar como favorito</string>
+    <string name="descripcion_imagen_recurso">Imagen del recurso</string>
+    <string name="favorito_agregado">Agregado a favoritos</string>
+    <string name="favorito_quitado">Quitado de favoritos</string>
+    <string name="error_abrir_enlace">No se pudo abrir el enlace</string>
+
+    <!-- Calificación -->
+    <string name="calificar_titulo">Calificar: %1$s</string>
+    <string name="calificar_confirmar">Enviar</string>
+    <string name="error_calificacion">Selecciona de 1 a 5 estrellas</string>
+    <string name="calificacion_exitosa">¡Gracias por tu calificación!</string>
+
+    <!-- Administración (Docente) -->
+    <string name="btn_agregar_recurso">Agregar recurso</string>
+    <string name="admin_sin_recursos">No hay recursos. Agrega el primero</string>
+    <string name="eliminar_titulo">Eliminar recurso</string>
+    <string name="eliminar_mensaje">¿Seguro que deseas eliminar «%1$s»? Esta acción no se puede deshacer.</string>
+    <string name="eliminar_confirmar">Eliminar</string>
+    <string name="recurso_eliminado">Recurso eliminado</string>
+    <string name="sin_permiso">No tienes permiso para acceder a esta pantalla</string>
+
+    <!-- Formulario -->
+    <string name="formulario_editar">Editar recurso</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_tipo">Tipo</string>
+    <string name="hint_enlace">Enlace (URL)</string>
+    <string name="hint_imagen">Imagen (URL)</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="recurso_guardado">Recurso guardado correctamente</string>
+    <string name="error_titulo">El título debe tener entre 3 y 80 caracteres</string>
+    <string name="error_descripcion">La descripción debe tener al menos 10 caracteres</string>
+    <string name="error_tipo">Selecciona un tipo de recurso</string>
+    <string name="error_enlace">Ingresa un enlace válido que empiece con http:// o https://</string>
+    <string name="error_imagen">Ingresa una URL de imagen válida que empiece con http:// o https://</string>
+    <string name="error_inesperado">Ocurrió un error inesperado. Intenta de nuevo</string>
 </resources>
