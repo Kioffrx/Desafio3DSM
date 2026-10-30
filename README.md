@@ -102,6 +102,10 @@ app/src/main/java/com/udb/aprendeapp/
 
 Agregar aquí las capturas de la app (login, registro, lista de recursos, administración del Docente).
 
+
+## Video de defensa
+[https://drive.google.com/file/d/1pwX4sHs2tS95RKqonAkoqitUvd1ZR-p6/view?usp=sharing]
+
 ## Commits
 
 El historial usa verbos en español en cada commit (agregar, implementar, corregir, actualizar, mejorar), siguiendo las indicaciones del desafío.
