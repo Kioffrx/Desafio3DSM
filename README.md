@@ -98,10 +98,6 @@ app/src/main/java/com/udb/aprendeapp/
 - Calificación de recursos y actualización del promedio.
 - Como Docente: agregar, editar y eliminar recursos con validación y confirmación.
 
-## Capturas de pantalla
-
-Agregar aquí las capturas de la app (login, registro, lista de recursos, administración del Docente).
-
 
 ## Video de defensa
 [https://drive.google.com/file/d/1pwX4sHs2tS95RKqonAkoqitUvd1ZR-p6/view?usp=sharing]
