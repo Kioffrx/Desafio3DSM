@@ -10,13 +10,11 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 interface ApiService {
-
-    @GET("usuarios")
+    @GET("Usuarios")
     suspend fun buscarUsuariosPorEmail(@Query("email") email: String): Response<List<Usuario>>
 
-    @POST("usuarios")
+    @POST("Usuarios")
     suspend fun crearUsuario(@Body usuario: Usuario): Response<Usuario>
-
     @GET("recursos")
     suspend fun obtenerRecursos(): Response<List<Recurso>>
 
