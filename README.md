@@ -100,8 +100,4 @@ app/src/main/java/com/udb/aprendeapp/
 
 
 ## Video de defensa
-[https://drive.google.com/file/d/1pwX4sHs2tS95RKqonAkoqitUvd1ZR-p6/view?usp=sharing]
-
-## Commits
-
-El historial usa verbos en español en cada commit (agregar, implementar, corregir, actualizar, mejorar), siguiendo las indicaciones del desafío.
+[https://drive.google.com/file/d/11LeLiYXnYYx88JbALIeXnzIPuJzAXJLn/view?usp=sharing]
